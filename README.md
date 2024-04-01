@@ -1,6 +1,6 @@
 # Logicas Brasileiras
 
-Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page](https://womeninlogic.github.io/WiLSpreadsheets/). Estamos trabalhando na versao em portugues.
+Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page](https://womeninlogic.github.io/WiLSpreadsheets/). Estamos trabalhando na versao em portugues das instrucoes.
 
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
