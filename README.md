@@ -11,7 +11,7 @@ Birolli | Fernanda | State University of New Jersey | Doutoranda | site | parado
 Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | lógicas polivalentes
 Bueno-Soler | Juliana | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | lógicas paraconsistentes
 da Silva Melo | Jéssica Caren | site | Mestre | - | Filosofia da lógica
-de Lima | Thaynara Arielly | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara/ | Professor Adjunto | Métodos Formais
+de Lima | Thaynara Arielly | Universidade Federal de Goiás | Professor Adjunto | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara/ | Métodos Formais
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, linear logic, natural deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Professora | https://www.cdutilhnovaes.com/| história da lógica
