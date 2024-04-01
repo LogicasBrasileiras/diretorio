@@ -5,11 +5,13 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Abelha | Sofia | Universität Wien, Áustria | Doutoranda | site | filosofia da lógica
-Arruda | Ayda Ignez | Campinas | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | logica paraconsistente
+Arruda | Ayda Ignez | Campinas | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | lógica paraconsistente
 Batinga | Lídia | UFPB | Graduanda | site | - 
 Birolli | Fernanda | State University of New Jersey | Doutoranda | site | paradoxos
-Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | logicas polivalentes
+Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | lógicas polivalentes
+Bueno-Soler | Juliana | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | lógicas paraconsistentes
 da Silva Melo | Jéssica Caren | site | Mestre | - | Filosofia da lógica
+de Lima | Thaynara Arielly | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara/ | Professor Adjunto | Métodos Formais
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, linear logic, natural deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Professora | https://www.cdutilhnovaes.com/| história da lógica
@@ -30,7 +32,6 @@ Pugliese | Natassja | UFRJ | Associate Professor | site | ensino de lógica
 Real | Livy | USP | cargo |  site | areas
 Reis | Giselle | CMU - Qatar | cargo | https://gisellereis.com/ | areas
 Secco | Gisele | UC San Bernardino | cargo | https://giselesecco.site/ | ensino de lógica
-Soler | Juliana Bueno | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | areas
 Teixeira | Célia | UFRJ | Professora | site | lógica filosófica
 Veloso | Sheila | UFRJ | Professora | https://www.cos.ufrj.br/~sheila/ | areas
 Wasserman | Renata | IME-USP | cargo | https://www.ime.usp.br/~renata/  | areas
