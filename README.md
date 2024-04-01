@@ -5,17 +5,17 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Abelha | Sofia | Universität Wien, Áustria | Doutoranda | site | filosofia da lógica
-Arruda | Ayda Ignez | Campinas | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | lógica paraconsistente
+Arruda | Ayda Ignez | Unicamp | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | lógica paraconsistente
 Batinga | Lídia | UFPB | Graduanda | site | - 
 Birolli | Fernanda | State University of New Jersey | Doutoranda | site | paradoxos
-Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | lógicas polivalentes
-Bueno-Soler | Juliana | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | lógicas paraconsistentes
+Blasio | Carolina | Unicamp | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | lógicas polivalentes
+Bueno-Soler | Juliana | Unicamp | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | lógicas paraconsistentes
 da Silva Melo | Jéssica Caren | site | Mestre | - | Filosofia da lógica
 de Lima | Thaynara Arielly | Universidade Federal de Goiás | Professor Adjunto | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara/ | Métodos Formais
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, linear logic, natural deduction
-D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
+D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Professora | https://www.cdutilhnovaes.com/| história da lógica
-Erickson | Evelyn | UFRN | cargo | https://eerickson.weebly.com/ | filosofia da logica
+Erickson | Evelyn | UFSC | posdoc | https://eerickson.weebly.com/ | filosofia da logica
 Figueiredo | Celina | UFRJ | Professora titular UFRJ | https://www.cos.ufrj.br/~celina/ | graph theory, theory of computing
 Gonçalves Rodrigues | Jéssica | UFMA | Mestranda | site | Filosofia da lógica, paradoxos
 Leal | Halina Macedo | FURB | Professora | site | areas
