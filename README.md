@@ -4,7 +4,7 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
-Arruda | Ayda Ignez | Campinas | (falecida) | site | logica paraconsistente
+Arruda | Ayda Ignez | Campinas | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | logica paraconsistente
 Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | logicas polivalentes
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, Linear logic, Natural Deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
@@ -17,7 +17,7 @@ Martinez-Ordaz | Maria | UFRJ | cargo | https://www.mariamartinezordaz.com/ | ar
 Moller | Vania | |  cargo | site | areas
 Nantes | Daniele | Imperial College, London | cargo | https://vtss.doc.ic.ac.uk/people/nantes.html | areas
 Nalon | Claudia | UnB   | Professora Titular | https://nalon.org/ | areas
-Pimentel | Elaine | UCL |cargo | https://sites.google.com/site/elainepimentel/ | areas
+Pimentel | Elaine | UCL |cargo | https://sites.google.com/site/elainepimentel/ | proof theory
 Pugliese | Natassja | UFRJ | Associate Professor | site | areas
 Reis | Giselle | CMU - Qatar | cargo | https://gisellereis.com/ | areas
 Secco | Gisele | UC San Bernardino | cargo | https://giselesecco.site/ | areas
