@@ -5,7 +5,7 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Arruda | Ayda Ignez | Campinas | (falecida) | site | logica paraconsistente
-Blasio | Carolina | Campinas | (falecida)  | site | logicas polivalentes
+Blasio | Carolina | Campinas | (falecida)  | https://logicasbrasileiras.wordpress.com/dia-carol-blasio/ | logicas polivalentes
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, Linear logic, Natural Deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Professora | https://www.cdutilhnovaes.com/| areas
