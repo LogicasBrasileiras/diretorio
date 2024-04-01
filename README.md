@@ -27,6 +27,7 @@ Pimentel | Elaine | UCL |cargo | https://sites.google.com/site/elainepimentel/ |
 Pereira Pinheiro | Natália | UFMA | professora temporária | - | Lógica modal
 Porto | Luiza | USP | Doutoranda | site | definibilidade, lógica abstrata
 Pugliese | Natassja | UFRJ | Associate Professor | site | ensino de lógica
+Real | Livy | USP | cargo |  site | areas
 Reis | Giselle | CMU - Qatar | cargo | https://gisellereis.com/ | areas
 Secco | Gisele | UC San Bernardino | cargo | https://giselesecco.site/ | ensino de lógica
 Soler | Juliana Bueno | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | areas
