@@ -40,6 +40,7 @@ Real | Livy | USP | Pesquisadora |  site | areas
 Reis | Giselle | CMU - Qatar | Professora | https://gisellereis.com/ | areas
 Secco | Gisele | UC San Bernardino | Professora | https://giselesecco.site/ | ensino de lógica
 Teixeira | Célia | UFRJ | Professora | site | lógica filosófica
+Tenorio  | Ana Luiza | UFRJ | posdoc | https://sites.google.com/ime.usp.br/analuizatenorio   | logica categorica
 Veloso | Sheila | UFRJ | Professora Emerita | https://www.cos.ufrj.br/~sheila/ | areas
 Wasserman | Renata | IME-USP | Professora | https://www.ime.usp.br/~renata/  | areas
 Xavier | Paloma | Puc-Rio | Doutoranda | site | Filosofia da lógica
