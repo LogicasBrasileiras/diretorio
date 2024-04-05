@@ -4,7 +4,7 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
-Abelha | Sofia | Universität Wien, Áustria | Doutoranda | site | filosofia da lógica
+Abelha | Sofia | Universität Wien, Áustria | Doutoranda | [site](https://ufind.univie.ac.at/de/person.html?id=1009626) | filosofia da lógica
 Arruda | Ayda Ignez | Unicamp | (falecida) | https://pt.wikipedia.org/wiki/Ayda_Ignez_Arruda | lógica paraconsistente
 Batinga | Lídia | UFPB | Graduanda | site | - 
 Birolli | Fernanda | State University of New Jersey | Doutoranda | site | paradoxos
