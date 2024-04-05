@@ -1,6 +1,13 @@
 # Logicas Brasileiras
 
-Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page](https://womeninlogic.github.io/WiLSpreadsheets/). Estamos trabalhando na versao em portugues das instrucoes.
+Voce pode ver [instrucoes](https://github.com/LogicasBrasileiras/diretorio/blob/main/Instrucoes.md) de como se adicionar a esta lista.
+
+Voce pode adicionar um maximo de tres areas de pesquisa.
+
+Se quiser, pode utilizar os sistemas de classificacao [Mathematical Subjects Classification](https://mathscinet.ams.org/msnhtml/msc2020.pdf) (MSC)
+e  Association of Computing Machinery [ACM Computing Classification System](https://github.com/LogicasBrasileiras/diretorio/blob/main/Instrucoes.md) (CCS).
+
+Nessas paginas acima voce pode ver areas, descritas pelos sistemas de topicos da American Mathematical Society (AMS) e da Association of Computing Machinery (ACM).
 
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
