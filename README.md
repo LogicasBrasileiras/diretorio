@@ -24,7 +24,7 @@ de Lima | Thaynara Arielly | Universidade Federal de Goiás (Brasil) | Professor
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, linear logic, natural deduction
 D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com/| história da lógica
-Erickson | Evelyn | UFSC | posdoc | https://eerickson.weebly.com/ | filosofia da lógica
+Erickson | Evelyn | UFSC | Pesquisadora | https://eerickson.weebly.com/ | filosofia da lógica
 Falcão | Márcia | UNILAB | Professora | https://sig.unilab.edu.br/sigaa/public/docente/portal.jsf?siape=1359902 | Teoria da Computação e lógica matemática
 Figueiredo | Celina | UFRJ | Professora titular | https://www.cos.ufrj.br/~celina/ | graph theory, theory of computing
 Gonçalves Rodrigues | Jéssica | UFMA | Mestranda | site | filosofia da lógica, paradoxos
@@ -32,7 +32,7 @@ Leal | Halina Macedo | FURB | Professora | site | areas
 Loparic | Andrea | Unicamp | (falecida) | site | areas
 Magri | Angell | UFSC | Doutoranda | site | lógica temporal
 Martinez-Ordaz | Maria | UNAM (México) | pósdoc | https://www.mariamartinezordaz.com/ | Lógica filosófica
-Martins | Ana Tereza | UFC | http://www.mdcc.ufc.br/component/content/article/34-fixo/379-ana-teresa | Teoria da computação, lógica e inteligência artificial
+Martins | Ana Tereza | UFC | Professora Titular Aposentada | http://www.mdcc.ufc.br/component/content/article/34-fixo/379-ana-teresa | Teoria da computação, lógica e inteligência artificial
 Moller | Vania | |  cargo | site | areas
 Nantes-Sobrinho | Daniele | Imperial College London | Professora | http://www.mat.unb.br/~dnantes/ | Modelagem, especificação e verificação de sistemas críticos
 Nalon | Claudia | UnB | Professora Titular | https://nalon.org/ | Resolução, lógicas modais e temporais
