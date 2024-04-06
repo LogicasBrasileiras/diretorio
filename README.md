@@ -1,4 +1,4 @@
-# Logicas Brasileiras
+# Lógicas Brasileiras
 
 Você pode ver [instruções](https://github.com/LogicasBrasileiras/diretorio/blob/main/Instrucoes.md) de como se adicionar a esta lista.
 
