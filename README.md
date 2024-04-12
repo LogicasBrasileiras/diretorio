@@ -24,7 +24,7 @@ de Lima | Thaynara Arielly | Universidade Federal de Goiás (Brasil) | Professor
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, linear logic, natural deduction
 D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com/| história da lógica
-Erickson | Evelyn | UFSC | Pesquisadora | https://eerickson.weebly.com/ | filosofia da lógica
+Erickson | Evelyn | UFSC | Pesquisadora | https://sites.google.com/view/eerickson | filosofia da lógica
 Falcão | Márcia | UNILAB | Professora | https://sig.unilab.edu.br/sigaa/public/docente/portal.jsf?siape=1359902 | Teoria da Computação e lógica matemática
 Figueiredo | Celina | UFRJ | Professora titular | https://www.cos.ufrj.br/~celina/ | graph theory, theory of computing
 Gonçalves Rodrigues | Jéssica | UFMA | Mestranda | site | filosofia da lógica, paradoxos
