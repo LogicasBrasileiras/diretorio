@@ -66,7 +66,7 @@ Moller | Vania | |  cargo | site | areas
 Nalon | Claudia | UnB | Professora Titular | https://nalon.org | Resolução, lógicas modais e temporais
 Nantes-Sobrinho | Daniele | Imperial College London | Professora | http://www.mat.unb.br/~dnantes | Modelagem, especificação e verificação de sistemas críticos
 Oliveira | Carmem Júlia | UFRN (Brasil) | Professora | site | geometric theories, linear logic, sequent calculus 
-Ozaki | Ana | University of Oslo / University of Bergen (Norway) | Professora Associada | https://sites.google.com/site/anaozaki | knowledge representation, description logic
+Ozaki | Ana | University of Oslo / University of Bergen (Norway) | Professora Associada | https://www4.uib.no/en/find-employees/ana.ozaki | knowledge representation, description logic
 Pereira Pinheiro | Natália | UEMA | professora temporária | site | Lógica modal
 Pereira Rodrigues | Angela | UNESP (Brasil) | Professora | site | deontic logic, modal logic, Boolean algebras 
 Pimentel | Elaine | UCL |Professora | https://sites.google.com/site/elainepimentel | Teoria da prova, lógicas modais e sub-estruturais, lógicas ecumênicas
