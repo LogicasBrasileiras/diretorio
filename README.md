@@ -1,6 +1,6 @@
 # Lógicas Brasileiras e Amigas
 
-Você pode ver [instruções](https://github.com/LogicasBrasileiras/diretorio/blob/main/Instrucoes.md) de como se adicionar a esta lista.
+Você pode ver [instruções](https://github.com/LogicasBrasileiras/diretorio/blob/main/Instrucoes.md) de como se adicionar a esta lista. Alguns nomes foram adicionados consultando o livro de resumos dos últimos EBLs. Caso seu nome esteja aqui e você gostaria de removê-lo, entre em contato conosco ou edite a lista removendo seu nome usando estas mesmas instruções.
 
 Você pode adicionar um máximo de três áreas de pesquisa.
 
