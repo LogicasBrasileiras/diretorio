@@ -12,7 +12,7 @@ Nessas páginas acima você pode ver áreas, descritas pelos sistemas de tópico
 | Sobrenome | Nome | Instituição (País) | Cargo | site | Áreas (separar por vírgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Abelha | Sofia | Universität Wien (Áustria) | Doutoranda | site | filosofia da lógica
-Alechina | Natasha | Open University / Utrecht University (Netherlands) | Professora |  | modal logic, safe reinforcement learning 
+Alechina | Natasha | Open University / Utrecht University (Netherlands) | Professora | https://www.uu.nl/staff/NAAlechina | modal logic, safe reinforcement learning 
 Alves Almeida | Ariane | UnB (Brasil) | Doutora | site | proof assistants, type theory 
 Angelos | Daniella | UnB (Brasil) | Doutoranda | site | multimodal logic, automated theorem proving 
 Apuzzo | Sofia Marshallowitz | Lawgorithm (Brasil) | Pesquisadora | site | artificial intelligence, natural language processing 
