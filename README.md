@@ -37,7 +37,7 @@ de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.g
 de Queiroz Silveira | Yasmim | UFRJ (Brasil) | Mestranda | site | ensino de lógica, lógica informal 
 D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://scholar.google.com/citations?user=lsYEJakAAAAJ | logics of formal inconsistency, história da lógica
 Duarte Severino | Jéssica | ICMC-USP (Brasil) | Graduanda | site | model theory, valued fields 
-Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com| história da lógica, teoria da racionalidade
+Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com| história da lógica, teoria da racionalidade, teoria da argumentação
 Enoque da Silva | Eleonoura | UNICAP (Brasil) | Doutora | site | quantum computation 
 Erickson | Evelyn | UFSC | Pesquisadora | https://sites.google.com/view/eerickson | filosofia da lógica, ensino de lógica
 Falcão | Márcia | UNILAB | Professora | site | teoria da Computação, lógica matemática
@@ -62,7 +62,7 @@ Martinez-Ordaz | Maria | UNAM (México) | pósdoc | https://www.mariamartinezord
 Martins | Ana Tereza | UFC | Professora Titular Aposentada | site | Teoria da computação, lógica e inteligência artificial
 Matulovic | Mariana | UNESP (Brasil) | Professora | site | non-classical logics, algebraic proof, program verification 
 Miquelanti | Roberta | UFBA (Brasil) | Professora | site | medieval logic, history of logic 
-Moller | Vania | |  cargo | site | areas
+Moller | Vania | |  cargo | site | teoria da argumentação
 Nalon | Claudia | UnB | Professora Titular | https://nalon.org | Resolução, lógicas modais e temporais
 Nantes-Sobrinho | Daniele | Imperial College London | Professora | http://www.mat.unb.br/~dnantes | modelagem, especificação e verificação de sistemas críticos
 Oliveira | Carmem Júlia | UFRN (Brasil) | Professora | site | geometric theories, linear logic, sequent calculus 
