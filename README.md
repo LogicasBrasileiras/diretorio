@@ -26,21 +26,21 @@ Bueno-Soler | Juliana | Unicamp | Professora | https://www.cle.unicamp.br/cle/ju
 Cardoso | Giovanna Dias | UNESP (Brasil) | Graduanda | site | fuzzy logic, artificial intelligence 
 Cardoso Cruz | Alinne | UFMA | graduanda | site | filosofia da lógica
 Cerioli | Márcia R. | UFRJ (Brasil) | Professora Associada | https://cos.ufrj.br/~cerioli/ | graph theory, diagrammatic reasoning 
-da Paz | Maria | UFRN | Professora Aposentada | site | Teoria da prova, traduções, lógica linear.
+da Paz | Maria | UFRN | Professora Aposentada | site | teoria da prova, traduções, lógica linear
 da Silva Dias | Aline | UFPR (Brasil) | Doutoranda | site | philosophy of mathematics mathematical ontology 
 da Silva Melo | Jéssica Caren | UFRN | Doutoranda | site | filosofia da lógica
 da Silva Santos | Milena | UFMA | graduanda | site | filosofia da lógica
 Dal Magro | Tamires | UFPI (Brasil) | Professora | site | diagrammatic reasoning, philosophy of mathematics
-de Freitas | Renata | UFF | Professora | https://defreitas-renata.github.io/homepage | Diagramas, álgebras relacionais
-de Lima | Thaynara Arielly | Universidade Federal de Goiás (Brasil) | Professora Adjunta | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara | Métodos Formais
+de Freitas | Renata | UFF | Professora | https://defreitas-renata.github.io/homepage | diagramas, álgebras relacionais
+de Lima | Thaynara Arielly | UFG (Brasil) | Professora Adjunta | https://ww2.inf.ufg.br/~daniel/effa/authors/thaynara | Métodos Formais
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io | categorical logic, linear logic, natural deduction
-de Queiroz Silveira | Yasmim | UFRJ (Brasil) | Mestranda | site | logic teaching, informal logic 
-D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://scholar.google.com/citations?user=lsYEJakAAAAJ | areas
+de Queiroz Silveira | Yasmim | UFRJ (Brasil) | Mestranda | site | ensino de lógica, lógica informal 
+D'Otaviano | Itala | CLE, Unicamp | Professora Emerita | https://scholar.google.com/citations?user=lsYEJakAAAAJ | logics of formal inconsistency, história da lógica
 Duarte Severino | Jéssica | ICMC-USP (Brasil) | Graduanda | site | model theory, valued fields 
-Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com| história da lógica
+Dutilh Novaes | Catarina | Vrije Universiteit, Amsterdam | Professora | https://www.cdutilhnovaes.com| história da lógica, teoria da racionalidade
 Enoque da Silva | Eleonoura | UNICAP (Brasil) | Doutora | site | quantum computation 
-Erickson | Evelyn | UFSC | Pesquisadora | https://sites.google.com/view/eerickson | filosofia da lógica
-Falcão | Márcia | UNILAB | Professora | site | Teoria da Computação e lógica matemática
+Erickson | Evelyn | UFSC | Pesquisadora | https://sites.google.com/view/eerickson | filosofia da lógica, ensino de lógica
+Falcão | Márcia | UNILAB | Professora | site | teoria da Computação, lógica matemática
 Figueiredo | Celina | UFRJ | Professora titular | https://www.cos.ufrj.br/~celina | graph theory, theory of computing
 Girardi Roggia | Karina | UDESC (Brasil) | Professora | site | proof assistants, number theory 
 Golzio | Ana Cláudia | UNESP (Brasil) | Professora | site | non-deterministic matrices, logics of formal inconsistency 
@@ -53,7 +53,7 @@ Junqueira | Lúcia R. | USP (Brasil) | Professora | site | topology, set theory
 Kubyshkina | Ekaterina | UNICAMP (Brasil) | Pesquisadora | site | many-valued logics, generalized truth values 
 Lázaro | Cristiane Alexandra | UNESP (Brasil) | Professora | site | logical consequence, implicative systems, algebra of logic 
 Lazzarotto Piccoli | Amanda | UFSM (Brasil) | Professora | site | semantic information, argument refinement 
-Leal | Halina Macedo | FURB | Professora | site | areas
+Leal | Halina Macedo | FURB | Professora | site | teoria da racionalidade, metodologia da ciência
 Lima | Cícera | UFCA | Mestranda | site | ensino de lógica
 Lobato | Yasmin | UFMA | graduanda | site | filosofia da lógica
 Loparic | Andrea | Unicamp | (falecida) | site | areas
@@ -64,15 +64,15 @@ Matulovic | Mariana | UNESP (Brasil) | Professora | site | non-classical logics,
 Miquelanti | Roberta | UFBA (Brasil) | Professora | site | medieval logic, history of logic 
 Moller | Vania | |  cargo | site | areas
 Nalon | Claudia | UnB | Professora Titular | https://nalon.org | Resolução, lógicas modais e temporais
-Nantes-Sobrinho | Daniele | Imperial College London | Professora | http://www.mat.unb.br/~dnantes | Modelagem, especificação e verificação de sistemas críticos
+Nantes-Sobrinho | Daniele | Imperial College London | Professora | http://www.mat.unb.br/~dnantes | modelagem, especificação e verificação de sistemas críticos
 Oliveira | Carmem Júlia | UFRN (Brasil) | Professora | site | geometric theories, linear logic, sequent calculus 
 Ozaki | Ana | University of Oslo / University of Bergen (Norway) | Professora Associada | https://www4.uib.no/en/find-employees/ana.ozaki | knowledge representation, description logic
-Pereira Pinheiro | Natália | UEMA | professora temporária | site | Lógica modal
+Pereira Pinheiro | Natália | UEMA | professora temporária | site | lógica modal
 Pereira Rodrigues | Angela | UNESP (Brasil) | Professora | site | deontic logic, modal logic, Boolean algebras 
-Pimentel | Elaine | UCL |Professora | https://sites.google.com/site/elainepimentel | Teoria da prova, lógicas modais e sub-estruturais, lógicas ecumênicas
+Pimentel | Elaine | UCL |Professora | https://sites.google.com/site/elainepimentel | teoria da prova, lógicas modais e sub-estruturais, lógicas ecumênicas
 Porto | Luiza | USP | Doutoranda | site | definibilidade, lógica abstrata
 Pugliese | Natassja | UFRJ | Professora associada | site | ensino de lógica
-Real | Livy | USP | Pesquisadora |  site | Inteligência Artificial, Filosofia da Linguagem, Lingüística
+Real | Livy | USP | Pesquisadora |  site | inteligência artificial, filosofia da linguagem, lingüística
 Reis | Giselle | CMU - Qatar | Professora | https://gisellereis.com | Teoria da prova, lógicas sub-estruturais, automação
 Rocha | Anne C. | IME-USP (Brasil) | Doutoranda | site | belief revision, AGM model, description logic 
 Sandre Evaristo | Beatriz | UNESP (Brasil) | Graduanda | site | history of logic, medieval logic
