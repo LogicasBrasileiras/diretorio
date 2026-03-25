@@ -72,7 +72,7 @@ Pereira Rodrigues | Angela | UNESP (Brasil) | Professora | site | deontic logic,
 Pimentel | Elaine | UCL |Professora | https://sites.google.com/site/elainepimentel | Teoria da prova, lógicas modais e sub-estruturais, lógicas ecumênicas
 Porto | Luiza | USP | Doutoranda | site | definibilidade, lógica abstrata
 Pugliese | Natassja | UFRJ | Professora associada | site | ensino de lógica
-Real | Livy | USP | Pesquisadora |  site | areas
+Real | Livy | USP | Pesquisadora |  site | Inteligência Artificial, Filosofia da Linguagem, Lingüística
 Reis | Giselle | CMU - Qatar | Professora | https://gisellereis.com | Teoria da prova, lógicas sub-estruturais, automação
 Rocha | Anne C. | IME-USP (Brasil) | Doutoranda | site | belief revision, AGM model, description logic 
 Sandre Evaristo | Beatriz | UNESP (Brasil) | Graduanda | site | history of logic, medieval logic
@@ -84,6 +84,7 @@ Teixeira | Célia | UFRJ | Professora | site | epistemologia, filosofia da lingu
 Tenorio  | Ana Luiza | UFRJ | posdoc | https://sites.google.com/ime.usp.br/analuizatenorio | logica categorica
 Trianon-Fraga | Juliane | USP (Brasil) | Pesquisadora | site | topological spaces, topological algebra 
 Vargas Tannuri | Helena | UDESC (Brasil) | Graduanda | site | proof assistants, logics of formal inconsistency
+Velloso | Araceli | UFG | Professora associada | https://sites.google.com/site/professoraaracelivelloso | filosofia da matemática, filosofia da lógica, Wittgenstein
 Veloso | Sheila | UFRJ | Professora Emerita | https://www.cos.ufrj.br/~sheila | areas
-Wasserman | Renata | IME-USP | Professora | https://www.ime.usp.br/~renata  | areas
+Wasserman | Renata | IME-USP | Professora | https://www.ime.usp.br/~renata  | Inteligência Artificial, Representação de conhecimento
 Xavier | Paloma | Puc-Rio | Doutoranda | site | filosofia da lógica
